@@ -9,7 +9,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 ### Athenagoras (Works)
 
-This edition contains the two known works attributed to Athenagoras. The first is known as _A Plea for the Christians_ or _Embassy to the Christians_; the other is his more well-known work _On the Resurrection_.
+This edition contains the two known works attributed to Athenagoras. The first is known as _A Plea for the Christians_ 
+or _Embassy to the Christians_; the other is his more well-known work _On the Resurrection_.
 
 * Translated from: _Patrologia Graeca_ volume 6.
 
